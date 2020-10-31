@@ -6,7 +6,7 @@ Avishkar 2020 MNNIT
 2. Member 2: Chirag Gupta(20195070)
 3. Member 3: Darin Carvalho(20195097)
 
-App Name: ERUDITION
+## App Name: ERUDITION
 
 <hr>
 Project Erudition is a modern interactive learning environment. We aim to provide students with a minimalist, clean and easy-to-understand interface, consisting of a website where students can view lecture videos and solve intuitive puzzles, while the teacher tracks the student’s progress on an interactive dashboard.
@@ -38,6 +38,6 @@ Project Erudition is a modern interactive learning environment. We aim to provid
 
 <p align="center">
   
-                                                  Thanks for Visiting! 
+                                                   Thanks for Visiting! 
                                         Show some ❤️ by starring 🌟 the repository
 </p>
