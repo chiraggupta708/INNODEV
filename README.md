@@ -12,7 +12,7 @@ App Name: ERUDITION
 Project Erudition is a modern interactive learning environment. We aim to provide students with a minimalist, clean and easy-to-understand interface, consisting of a website where students can view lecture videos and solve intuitive puzzles, while the teacher tracks the student’s progress on an interactive dashboard.
 <hr>
 
-##PROPOSED FEATURES
+## PROPOSED FEATURES
 
 * Login/Signup — email verification based login system
 * Forgot Password? — password reset via email reset link
@@ -22,7 +22,7 @@ Project Erudition is a modern interactive learning environment. We aim to provid
 * To-Do List
 * Comment Section — a section to comment on videos
 
-##TECH STACK
+## TECH STACK
 
 * FrontEnd -HTML + CSS3,
 * Bootstrap, JavaScript
